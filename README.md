@@ -14,3 +14,7 @@ O Agente Universal para z/OS requer as seguintes versões de software:
 - TSO user ID with an OMVS segment.
 - About 1900 cylinders of DASD.
 - Two available TCP/IP ports on z/OS.
+
+Todos os programas de Agente Universal utilizam os Serviços de Sistema z/OS UNIX. Como tal, o z/OS UNIX requer o perfil do usuário com o qual um programa executa para ter um segmento OMVS devidamente definido. O segmento OMVS deve definir um valor UID único. O valor HOME deve especificar um diretório home existente ao qual o ID do usuário tem acesso de leitura e escrita.
+
+Além disso, o(s) grupo(s) ao(s) qual(is) o ID do usuário está associado(s) deve(m) ter um segmento OMVS que defina um valor GID único para o grupo. Consulte o manual de Planejamento de Serviços de Sistema UNIX da IBM para obter detalhes adicionais sobre a definição de usuários z/OS UNIX.

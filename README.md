@@ -50,3 +50,9 @@ Dependendo de suas escolhas de instalação, os qualificadores de alto nível do
 | Data Set Names | Espaço | Descrição |
 | --- | --- | --- |
 | UNV.AUNVLOAD | 6500 | Biblioteca de distribuição SMP/E para a biblioteca de carga de produtos.|
+| UNV.AUNVNLS | 30 | Biblioteca de distribuição SMP/E para a biblioteca de apoio linguístico nacional do produto.|
+| UNV.AUNVSAMP | 30 | Biblioteca de distribuição SMP/E para a biblioteca de amostras de produtos.|
+| UNV.AUNVTMPL | 	60 | Biblioteca de distribuição SMP/E para arquivos de modelos de configuração.|
+| UNV.SMP.CSI | n/a | Cluster SMP/E CSI VSAM para zonas SMP/E de Agente Universal.|
+| UNV.SMP.CSI.DATA | 75 | Dados SMP/E CSI VSAM para zonas SMP/E de Agente Universal.|
+| UNV.SMP.CSI.INDEX | 15 | Índice SMP/E CSI VSAM para zonas SMP/E de Agente Universal.|

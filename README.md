@@ -47,7 +47,7 @@ A tabela a seguir lista os data set SMP/E - e suas necessidades de espaço - que
 Dependendo de suas escolhas de instalação, os qualificadores de alto nível do data set podem ser diferentes.
 
 
-| Data Set Names | Espaço | Descrição |
+|Data Set Names | Espaço | Descrição |
 | --- | --- | --- |
 | UNV.AUNVLOAD | 6500 | Biblioteca de distribuição SMP/E para a biblioteca de carga de produtos.|
 | UNV.AUNVNLS | 30 | Biblioteca de distribuição SMP/E para a biblioteca de apoio linguístico nacional do produto.|

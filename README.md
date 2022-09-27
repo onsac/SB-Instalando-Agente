@@ -56,3 +56,46 @@ Dependendo de suas escolhas de instalação, os qualificadores de alto nível do
 | UNV.SMP.CSI | n/a | Cluster SMP/E CSI VSAM para zonas SMP/E de Agente Universal.|
 | UNV.SMP.CSI.DATA | 75 | Dados SMP/E CSI VSAM para zonas SMP/E de Agente Universal.|
 | UNV.SMP.CSI.INDEX | 15 | Índice SMP/E CSI VSAM para zonas SMP/E de Agente Universal.|
+| UNV.SMP.SMPLOG | 30 | Arquivo de log SMP/E.|
+| UNV.SMP.SMPLOGA | 30 | Arquivo de backup SMP/E.|
+| UNV.SMP.SMPLTS | 100 | Biblioteca de destino SMP/E para versões básicas de módulos de carga usando uma alocação SYSLIB.|
+| UNV.SMP.SMPMTS | 30 | SMP/E biblioteca alvo para macros existentes apenas nas bibliotecas de distribuição.|
+| UNV.SMP.SMPPTS | 4500 | Armazenamento temporário do SMP/E SYSMOD.|
+| UNV.SMP.SMPSCDS | 30 | Biblioteca de backup de zona SMP/E.|
+| UNV.SMP.SMPSTS | 30 | SMP/E biblioteca alvo para fonte existente apenas nas bibliotecas de distribuição.|
+| UNV.SUNVLOAD | 6500 | SMP/E biblioteca alvo para a biblioteca de carga de produtos.|
+| UNV.SUNVNLS | 30 | SMP/E biblioteca alvo para a biblioteca de suporte ao idioma nacional do produto.|
+| UNV.SUNVSAMP | 30 | Biblioteca SMP/E para a biblioteca de amostras de produtos.|
+| UNV.SUNVTMPL | 60 | SMP/E biblioteca alvo para arquivo de modelo de configuração.|
+
+## Non-SMP/E Data Sets
+
+A tabela a seguir lista os data sets non-SMP/E - e suas necessidades de espaço - que são alocados e catalogados como parte do Agente Universal para instalação do pacote z/OS.
+
+Dependendo de suas escolhas de instalação, os qualificadores de alto nível do data sets podem ser diferentes.
+
+|Data Set Names | Espaço | Descrição |
+| --- | --- | --- |
+| UNV.MDL | 1 | Modelo de alocação de data set sequenciais.|
+| UNV.UAG| 1 | Modelo de alocação do data set de registro do Agente do Centro de Automação Universal.|
+| UNV.UAG.AGENT.LOG | n/a | Data set de registro de Agente do Centro de Automação Universal GDG base.|
+| UNV.UCRDB | 	15 | Banco de dados de certificados universais.|
+| UNV.UECDB | 4500 | Controlador Empresarial Universal HFS ou banco de dados zFS.|
+| UNV.UNVCOMP | 15 | Biblioteca de definição de componentes do Agente Universal.|
+| UNV.UNVCONF | 15 | Biblioteca de configuração do Agente Universal. |
+| UNV.UNVCREF | 75 | Biblioteca de referência de comandos do Universal Command Server. |
+| UNV.UNVDB | 150 | Corretor Universal HFS ou banco de dados zFS. |
+| UNV.UNVJSC | n/a  | VSAM Job Submission Checkpoint (JSC) cluster. |
+| UNV.UNVKSTR | 75 | Data set da Universal Broker Key Store. |
+| UNV.UNVSPOOL | 3000 | Agente universal HFS ou banco de dados de spool zFS. |
+| UNV.UNVTRACE | 150 | Data set de rastreamento PDS/E da Universal Broker. |
+| UNV.V6R4M0.INSTALL |30 | Instalação e manutenção do pacote de Agentes Universais JCL. |
+
+## Suporte de Plataforma para Controlador Universal 7.2.x e Agente Universal 7.2.x
+
+Esta página fornece informações de suporte de plataforma para os seguintes produtos do Centro de Automação Universal:
+
+- Universal Controller 7.2.x
+- Universal Agent 7.2.x
+  - Universal Command
+  - Universal Data Mover

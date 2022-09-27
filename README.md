@@ -29,10 +29,6 @@ Como os requisitos da plataforma podem mudar com novos lançamentos de um produt
 
 ## Instalação z/OS - Data Set Inventory
 
-- Tipos de Data Sets
-- SMP/E Data Sets 
-- Non-SMP/E Data Sets
-
 ## Tipos de Data Sets
 
 Como parte do Agente Universal para instalação do pacote z/OS, dois tipos de data sets são alocados e catalogados:
@@ -112,3 +108,12 @@ Para um volume de até 1.000 transações por segundo, considere a arquitetura a
 | CPU | 4 VCPUs |
 | Memória Ram | 16 GB |
 | Disco | 130GB : 30GB SO + 100GB APP + DB |
+
+## Procedimento de Instalação
+
+1. Copiar o arquivo sb-7.2.0.0-linux-3.10-x86_64.tar.Z ou sb-7.2.0.1-windows-x64.exe
+
+2. No Linux executar o comando abaixo :
+   sh ./unvinst --oms_port 7878 --oms_servers 18.229.228.185 --opscli yes --python yes
+
+3. No windows executar o arquivo sb-7.2.0.1-windows-x64.exe

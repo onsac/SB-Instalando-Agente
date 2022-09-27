@@ -1,5 +1,5 @@
-## SB-Setup-z-OS
-Documentação Stonebranch Setup z/OS. 
+## SB-Instalação Agente
+Documentação Stonebranch Instalação de Agente. 
 
 
 ## Instalação z/OS - Requisitos de instalação

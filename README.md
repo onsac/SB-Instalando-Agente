@@ -99,3 +99,5 @@ Esta página fornece informações de suporte de plataforma para os seguintes pr
 - Universal Agent 7.2.x
   - Universal Command
   - Universal Data Mover
+|Plataforma | Supported Realeases |Universal Controller |Universal Agent| USAP |UPPS |SOA Agent |UDM | UEC| UEC Clients |Notes
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

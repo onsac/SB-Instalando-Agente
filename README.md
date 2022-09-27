@@ -103,4 +103,5 @@ Esta página fornece informações de suporte de plataforma para os seguintes pr
   
 |Plataforma | Supported Realeases |Universal Controller |Universal Agent| USAP |UPPS |SOA Agent |UDM | UEC| UEC Clients |Notes
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| IBM z/OS | 2.2, 2.3, or 2.4 |  | OK | OK |  |  | OK | OK |  |  A OMS não está disponível.|
+| IBM z/OS | 2.2, 2.3, or 2.4 | - | OK | OK | - | - | OK | OK | - | - A OMS não está disponível.|
+| Microsoft Windows | Server 2012 Server 2012 R2 Server 2016 Server 2019 | OK | OK | OK | OK | OK | OK | OK | OK | * Uma instalação de 64 bits requer uma versão de 64 bits do Window. * A UEC está disponível apenas como um pacote de 32 bits. * Os clientes UEC requerem Oracle Java * Runtime Environment 1.5 e posteriores.|

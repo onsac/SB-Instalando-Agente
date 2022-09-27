@@ -103,4 +103,4 @@ Esta página fornece informações de suporte de plataforma para os seguintes pr
   
 |Plataforma | Supported Realeases |Universal Controller |Universal Agent| USAP |UPPS |SOA Agent |UDM | UEC| UEC Clients |Notes
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| IBM z/OS | 2.2, 2.3, or 2.4 |  | OK | OK |  |  | OK | OK |  | 1. A OMS não está disponível.|
+| IBM z/OS | 2.2, 2.3, or 2.4 |  | OK | OK |  |  | OK | OK |  |  A OMS não está disponível.|

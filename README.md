@@ -100,4 +100,4 @@ Esta página fornece informações de suporte de plataforma para os seguintes pr
   - Universal Command
   - Universal Data Mover
   
-  <a href="[https://onsac.com/](https://docs.stonebranch.com/confluence/display/SMLRI/Platform+Support+for+Universal+Controller+7.2.x+and+Universal+Agent+7.2.x)"><strong>Para mais informação. </strong></a>
+  <a href="https://docs.stonebranch.com/confluence/display/SMLRI/Platform+Support+for+Universal+Controller+7.2.x+and+Universal+Agent+7.2.x"><strong>Para mais informação. </strong></a>

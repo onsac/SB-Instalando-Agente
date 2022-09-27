@@ -100,4 +100,15 @@ Esta página fornece informações de suporte de plataforma para os seguintes pr
   - Universal Command
   - Universal Data Mover
   
-  <a href="https://docs.stonebranch.com/confluence/display/SMLRI/Platform+Support+for+Universal+Controller+7.2.x+and+Universal+Agent+7.2.x"><strong>Para mais informação. </strong></a>
+<a href="https://docs.stonebranch.com/confluence/display/SMLRI/Platform+Support+for+Universal+Controller+7.2.x+and+Universal+Agent+7.2.x"><strong>Para mais informação. </strong></a>
+
+## Requerimento para Instalação dos Agentes Linux e Windows
+
+Para um volume de até 1.000 transações por segundo, considere a arquitetura abaixo:
+
+| Componente | Descrição |
+| --- | --- |
+| SO | Centos ou Redhat |
+| CPU | 4 VCPUs |
+| Memória Ram | 16 GB |
+| Disco | 130GB : 30GB SO + 100GB APP + DB |

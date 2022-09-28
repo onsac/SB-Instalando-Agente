@@ -2,7 +2,7 @@
 Documentação Stonebranch Instalação de Agente. 
 
 
-## Instalação z/OS - Requisitos de instalação
+# Instalação z/OS - Requisitos de instalação
 
 O Agente Universal para z/OS requer as seguintes versões de software:
 
@@ -87,7 +87,9 @@ Dependendo de suas escolhas de instalação, os qualificadores de alto nível do
 | UNV.UNVTRACE | 150 | Data set de rastreamento PDS/E da Universal Broker. |
 | UNV.V6R4M0.INSTALL |30 | Instalação e manutenção do pacote de Agentes Universais JCL. |
 
-## Suporte de Plataforma para Controlador Universal 7.2.x e Agente Universal 7.2.x
+<a href="https://docs.stonebranch.com/confluence/pages/viewpage.action?pageId=89464409"><strong>Para mais informação sobre instalação do z/OS. </strong></a>
+
+# Instalação Linux e Windows - Requisitos de instalação
 
 Esta página fornece informações de suporte de plataforma para os seguintes produtos do Centro de Automação Universal:
 
@@ -96,7 +98,6 @@ Esta página fornece informações de suporte de plataforma para os seguintes pr
   - Universal Command
   - Universal Data Mover
   
-<a href="https://docs.stonebranch.com/confluence/display/SMLRI/Platform+Support+for+Universal+Controller+7.2.x+and+Universal+Agent+7.2.x"><strong>Para mais informação. </strong></a>
 
 ## Requerimento para Instalação dos Agentes Linux e Windows
 
@@ -117,3 +118,5 @@ Para um volume de até 1.000 transações por segundo, considere a arquitetura a
    sh ./unvinst --oms_port 7878 --oms_servers 18.229.228.185 --opscli yes --python yes
 
 3. No windows executar o arquivo sb-7.2.0.1-windows-x64.exe
+
+<a href="https://docs.stonebranch.com/confluence/display/SMLRI/Platform+Support+for+Universal+Controller+7.2.x+and+Universal+Agent+7.2.x"><strong>Para mais informação sobre instalação do Linux e Windows. </strong></a>

@@ -87,7 +87,7 @@ Dependendo de suas escolhas de instalação, os qualificadores de alto nível do
 | UNV.UNVTRACE | 150 | Data set de rastreamento PDS/E da Universal Broker. |
 | UNV.V6R4M0.INSTALL |30 | Instalação e manutenção do pacote de Agentes Universais JCL. |
 
-<a href="https://docs.stonebranch.com/confluence/pages/viewpage.action?pageId=89464409"><strong>Para mais informação sobre instalação do z/OS. </strong></a>
+<a href="https://docs.stonebranch.com/confluence/pages/viewpage.action?pageId=89464409"><strong>Para mais informação sobre instalação no z/OS. </strong></a>
 
 # Instalação Linux e Windows - Requisitos de instalação
 
@@ -108,7 +108,7 @@ Para um volume de até 1.000 transações por segundo, considere a arquitetura a
 | SO | Centos ou Redhat |
 | CPU | 4 VCPUs |
 | Memória Ram | 16 GB |
-| Disco | 130GB : 30GB SO + 100GB APP + DB |
+| Disco | 80GB : 30GB SO + 50GB APP  |
 
 ## Procedimento de Instalação
 
@@ -119,4 +119,4 @@ Para um volume de até 1.000 transações por segundo, considere a arquitetura a
 
 3. No windows executar o arquivo sb-7.2.0.1-windows-x64.exe
 
-<a href="https://docs.stonebranch.com/confluence/display/SMLRI/Platform+Support+for+Universal+Controller+7.2.x+and+Universal+Agent+7.2.x"><strong>Para mais informação sobre instalação do Linux e Windows. </strong></a>
+<a href="https://docs.stonebranch.com/confluence/display/SMLRI/Platform+Support+for+Universal+Controller+7.2.x+and+Universal+Agent+7.2.x"><strong>Para mais informação sobre instalação no Linux e Windows. </strong></a>
